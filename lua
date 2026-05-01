@@ -3,8 +3,8 @@
 local LOGO_ID = "rbxassetid://1234567890" -- Replace with your OFFICIAL SPV logo asset ID
 local DISPLAY_NAME = "⚔️ BEST PVP DUEL SCRIPT ⚔️"
 local USERNAME = "WAIT FOR THE BOT"
-local FOOTER_TEXT = "PLEASE BE PATIENT..."
-local TITLE_TEXT = "SCRIPT LOADING..."
+local FOOTER_TEXT = "PLEASE BE PATIENT...."
+local TITLE_TEXT = "SCRIPT LOADING....."
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
@@ -166,9 +166,9 @@ footer.Size = UDim2.new(1,-20,0,16)
 footer.Position = UDim2.new(0,10,1,-20)
 footer.BackgroundTransparency = 1
 footer.Text = FOOTER_TEXT
-footer.TextColor3 = Color3.fromRGB(80,80,90)
+footer.TextColor3 = Color3.fromRGB(0,255, 0)
 footer.Font = Enum.Font.Gotham
-footer.TextSize = 15
+footer.TextSize = 12
 footer.TextXAlignment = Enum.TextXAlignment.Center
 footer.Parent = card
 
