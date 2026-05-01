@@ -1,10 +1,10 @@
 -- OFFICIAL SPV CP SMALL LOADING SCREEN WITH PLAYER AVATAR
 
 local LOGO_ID = "rbxassetid://1234567890" -- Replace with your OFFICIAL SPV logo asset ID
-local DISPLAY_NAME = "⚔️ BEST PVP DUEL ⚔️"
-local USERNAME = "🤖WAIT FOR THE BOT🤖"
-local FOOTER_TEXT = "🟢PLEASE BE PATIENT🟢"
-local TITLE_TEXT = "⚡ SCRIPT LOADING"
+local DISPLAY_NAME = "⚔️ BEST PVP DUEL SCRIPT ⚔️"
+local USERNAME = "WAIT FOR THE BOT"
+local FOOTER_TEXT = "PLEASE BE PATIENT..."
+local TITLE_TEXT = "SCRIPT LOADING..."
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
