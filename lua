@@ -168,7 +168,7 @@ footer.BackgroundTransparency = 1
 footer.Text = FOOTER_TEXT
 footer.TextColor3 = Color3.fromRGB(80,80,90)
 footer.Font = Enum.Font.Gotham
-footer.TextSize = 10
+footer.TextSize = 15
 footer.TextXAlignment = Enum.TextXAlignment.Center
 footer.Parent = card
 
